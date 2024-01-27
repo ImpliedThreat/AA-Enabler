@@ -7,7 +7,8 @@ The first 10 purchases using code "THEFINALS20" will receive 20% off.
 
 This bypass is currently verified as working with both Fortnite and The Finals.
 Does not currently work with Call of Duty MW3 or Apex Legends.
-<html>
-  <video src="https://vimeo.com/907075461" width="300" />
-</html>
+
+Video Guide:
+https://vimeo.com/907075461
+
 
