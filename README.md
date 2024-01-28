@@ -14,4 +14,7 @@ Does not currently work with Call of Duty MW3 or Apex Legends.
 Video Guide:
 https://vimeo.com/907075461
 
+If you have any questions, join the Discord:
+https://discord.gg/ZGcbxfEcT6
+
 
